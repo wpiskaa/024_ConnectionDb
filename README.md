@@ -95,7 +95,7 @@ Server akan berjalan di: `http://localhost:3000`
 
 ### GET /api/biodata — Semua Data
 
-![GET /api/biodata](screenshots/get_all_biodata.png)
+<img width="1280" height="764" alt="Screenshot 2026-07-13 153048" src="https://github.com/user-attachments/assets/e018d09c-6e17-4f5a-9646-19cb41528d7f" />
 
 ### Root Endpoint
 
